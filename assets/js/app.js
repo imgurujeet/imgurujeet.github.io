@@ -158,15 +158,16 @@ let footer = $(`
 
     <div class="rounded-social-buttons tag">
     
-    <a class="social-button email" href="mailto:imgurujeet@gmail.com" target="_blank" >
-    <!-- svg code for email icon -->
-       <svg class="email-icon-footer" xmlns="http://www.w3.org/2000/svg" width="35" viewBox="0 0 24 24" fill="#000000"
-        stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="feather feather-mail">
-        <path
-            d="M3 6l9 6 9-6m0 0l-9 6-9-6m9 6v6"></path>
-        <path d="M21 8v10a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8l9 6 9-6z"></path>
-    </svg>
+    <a class="social-button linkedin" href="mailto:imgurujeet@gmail.com" target="_blank">
+    
+        <!-- svg code for mail icon -->
+        <svg class="mail-icon-footer" xmlns="http://www.w3.org/2000/svg" width="35" viewBox="0 0 24 24" fill="#FFFFFF"
+            stroke-width="1" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M3 6l9 6 9-6m0 0l-9 6-9-6m9 6v6"></path>
+            <path d="M21 8v10a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8l9 6 9-6z"></path>
+        </svg> 
     </a>
+
     
    
 
