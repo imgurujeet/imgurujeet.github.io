@@ -564,6 +564,27 @@ Rotate Transition in foote Soical Icon
   transition: background-color 0.3s, var(--trans-props);
 }
 
+/*
+--------------------------
+   Mail MICROANIMATION
+--------------------------
+*/
+
+.mail:hover .mail-icon-footer>rect {
+  animation: rect-up 0.3s linear infinite;
+}
+
+@keyframes rect-up {
+  50% {
+      y: 10px;
+      height: 11px;
+  }
+  0% {
+      y: 15px;
+      height: 8px;
+  }
+}
+
 
 /*
 ------------------------------
