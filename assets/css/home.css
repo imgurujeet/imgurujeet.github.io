@@ -173,7 +173,21 @@ html[light-mode="dark"] .socialicon{
   background-color: #41aff3;
   box-shadow: var(--kaggle);
 }
+/*
+--------------------------
+   Mail MICROANIMATION
+--------------------------
+*/
+html[light-mode="dark"] .mail-icon{
+  fill: #ffff;
+}
 
+.mail-icon {
+  width: 40px;
+  margin-left: 12px;
+  margin-top: 4px;
+  fill: #000000;
+}
 
  /*
 ---------------------------
